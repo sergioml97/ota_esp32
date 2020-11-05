@@ -1,6 +1,6 @@
 {
     "version": 0.2,
-    "archivo": "https://raw.githubusercontent.com/evasga98/ota_esp32/master/tfg_ota.bin",
+    "archivo": "https://raw.githubusercontent.com/evasga98/ota_esp32/master/ota.bin",
     "fecha": "5-11-2020",
     "autor": "-"
 }
